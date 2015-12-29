@@ -1,0 +1,13 @@
+name: sscsw
+channels:
+    - ioos
+dependencies:
+    - python=2.7
+    - bokeh
+    - folium
+    - jupyter
+    - owslib
+    - pandas
+    - pyoos
+    - pysgrid
+    - pyugrid

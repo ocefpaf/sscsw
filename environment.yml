@@ -6,8 +6,10 @@ dependencies:
     - bokeh
     - folium
     - jupyter
+    - matplotlib
     - owslib
     - pandas
     - pyoos
     - pysgrid
     - pyugrid
+    - gridgeo
